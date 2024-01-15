@@ -1,4 +1,4 @@
-# MovieLens-Efficient-Search
+# MovieLens-Efficient-Search🕵️‍♀️
 
 ## Overview
 The program creates a search for movie tags which entertainment consumers have placed in the MovieLens Dataset. It reads data from a file of tags, allowing the user to search for individual tags by popularity and display the results in a user-friendly manner. The goal is to demonstrate mastery of object oriented design, searching and sorting algorithms by handling a large dataset efficiently with respect to time and space.
